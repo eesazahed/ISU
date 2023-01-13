@@ -305,7 +305,7 @@ const Vacation = () => {
               target="_blank"
               href="https://greektowntoronto.com/taste-of-the-danforth/"
             >
-              Learn more about Taste of the Danforth &rarr;
+              Learn more about the Taste of the Danforth festival &rarr;
             </Link>
           </p>
         </Article>

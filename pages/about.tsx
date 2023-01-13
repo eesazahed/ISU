@@ -53,8 +53,10 @@ const About = () => {
             Gemstone: Amethyst <br />
             <br />
             Population: 14,223,942 <br />
-            Land area in square kilometres: 892,411.76 <br />
-            Population density per square kilometre: 15.9 <br />
+            Land area: 892,411.76 square kilometres
+            <br />
+            Population density: 15.9 people per square kilometre
+            <br />
           </p>
         </Article>
 
