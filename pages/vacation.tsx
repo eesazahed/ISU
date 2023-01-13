@@ -135,7 +135,7 @@ const Vacation = () => {
             artwork, and experience visiting one of Canada&apos;s most important
             buildings. Originally constructed in the West Block of the Canadian
             Parliament, the Parliament Buildings were opened on the 6th of June,
-            1866. A fire destroyed all of the Parliament buildings in 1916 (with
+            1866. A fire destroyed all of the Parliament Buildings in 1916 (with
             the exception of the Library of Parliament). Consequently, a
             reconstruction effort started that year and finished in 1927. Just
             remember, book your tickets in advance, as they run out very
@@ -184,26 +184,26 @@ const Vacation = () => {
           <p>
             For your final day in Ottawa, you&apos;ll be participating in a
             guided tour of the Senate of Canada Building, another major
-            Parliament of Canada building. The tour lasts 30 minutes and,
-            similar to the House of Commons Guided Tour, is completely free of
-            charge. Located a block away from Parliament Hill, the building
-            possesses major political significance and noteworthy architectural
-            design. This place is where you can examine the distinguished Senate
-            Chamber and learn about the work of the Senators. Until 1966, the
-            building was actually the city&apos;s central railway station,
-            called Ottawa Union Station. Therefore, the design of the building
-            is quite contrasting to the House of Commons Building. The railway
-            station operated from 1912 to 1966, until the tracks were removed
-            and there were plans for the building to be demolished. However, the
-            building remained intact, because one year later was Canada&apos;s
-            centenary celebrations, which celebrated the 100th anniversary of
-            the Canadian Confederation. The building became a visitors centre
-            during the time, and was occasionally used for government meetings
-            in the years after. However, the building didn&apos;t become the
-            Senate of Canada Building until 2019, when the building was
-            re-opened after 6 years of rehabilitation. Therefore, you&apos;ll be
-            visiting a building that was reconditioned relatively in recent
-            years. Be sure to take lots of pictures, and ask lots of questions!
+            Parliament Building. The tour lasts 30 minutes and, similar to the
+            House of Commons Guided Tour, is completely free of charge. Located
+            a block away from Parliament Hill, the building possesses major
+            political significance and noteworthy architectural design. This
+            place is where you can examine the distinguished Senate Chamber and
+            learn about the work of the Senators. Until 1966, the building was
+            actually the city&apos;s central railway station, called Ottawa
+            Union Station. Therefore, the design of the building is quite
+            contrasting to the House of Commons Building. The railway station
+            operated from 1912 to 1966, until the tracks were removed and there
+            were plans for the building to be demolished. However, it remained
+            intact, because one year later was Canada&apos;s centenary
+            celebrations, which celebrated the 100th anniversary of the Canadian
+            Confederation. The building became a visitors centre during the
+            time, and was occasionally used for government meetings in the years
+            after. However, it didn&apos;t become the Senate of Canada Building
+            until 2019, when it was re-opened after 6 years of rehabilitation.
+            Therefore, you&apos;ll be visiting a structure that was
+            reconditioned relatively in recent years. Be sure to take lots of
+            pictures, and ask lots of questions!
             <br />
             <br />
             <Link
