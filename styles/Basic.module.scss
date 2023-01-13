@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.main p {
+  line-height: 1.75rem;
+}
+
+.description {
+  margin-bottom: 4rem;
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+@media (max-width: 1000px) {
+  .main {
+    padding: 2rem;
+  }
+}

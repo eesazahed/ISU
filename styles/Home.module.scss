@@ -1,0 +1,70 @@
+@import "./variables";
+
+.main,
+.header {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.header {
+  justify-content: space-between;
+  padding: 1rem;
+  min-height: 100vh;
+}
+
+.title {
+  line-height: 1.15;
+  font-size: 9rem;
+}
+
+.title,
+.description {
+  margin: 0rem 2rem 0rem 2rem;
+}
+
+.header .description {
+  background-color: $white;
+  width: fit-content;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+
+.description {
+  margin-bottom: 4rem;
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+@media (max-width: 1200px) {
+  .header {
+    align-items: center;
+  }
+
+  .title {
+    line-height: 1.15;
+    font-size: 6rem;
+    text-align: center;
+  }
+
+  .description {
+    line-height: 1.25;
+    font-size: 2rem;
+    text-align: center;
+  }
+}
+
+@media (max-width: 1000px) {
+  .main {
+    padding: 2rem;
+  }
+
+  .header {
+    padding: none;
+  }
+}

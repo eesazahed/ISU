@@ -1,0 +1,19 @@
+@import "./variables";
+
+.gallery {
+  max-width: 100%;
+}
+
+.img-container {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $black;
+}
+
+.img-container img {
+  object-fit: cover;
+  height: 100%;
+}

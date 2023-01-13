@@ -1,0 +1,27 @@
+@import "./variables";
+
+.footer {
+  background-color: $white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.description {
+  margin: 2rem 1rem 2rem 1rem;
+  line-height: 2;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 1000px) {
+  .footer {
+    padding: 1rem;
+  }
+
+  .description {
+    margin: 1rem 0.5rem 1rem 0.5rem;
+    font-size: 1rem;
+  }
+}
