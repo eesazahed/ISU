@@ -288,16 +288,17 @@ const Vacation = () => {
             have reached up to 1.6 million people in previous situations. The
             Taste of the Danforth festival has occurred annually since 1993, and
             has happened every year since then until 2020. As of now, the last
-            was in 2019, but there are plans for it to take place again in
-            2023.The food served is primarily Greek food, which includes
-            numerous types of meat, such as chicken, beef, and pork, as well as
-            abounding ethnically Greek dishes, such as souvlaki, spanakopita,
-            and gyros. Attendants can also participate in other activities such
-            as beverage tasting, face-painting, and games. Nevertheless, you
-            should try to attend one day of the festival, considering tomorrow
-            you&apos;ll be leaving the city. A recommendation for you is to end
-            the night by visiting Eaton Centre, the city&apos;s biggest mall in
-            downtown Toronto.
+            was in 2019, but there are plans for it to take place again in 2023.
+            One of the main reasons you&apos;ll be going is because of the
+            amazing food and refreshments. The food served is of primarily Greek
+            cuisine, which includes numerous types of meat, such as chicken,
+            beef, and pork, as well as abounding ethnically Greek dishes, such
+            as souvlaki, spanakopita, and gyros. You can also participate in
+            other activities such as beverage tasting, face-painting, and games.
+            Nevertheless, you should try to attend one day of the festival,
+            considering tomorrow you&apos;ll be leaving the city. A
+            recommendation for you is to end the night by visiting Eaton Centre,
+            the city&apos;s biggest mall in downtown Toronto.
             <br />
             <br />
             <Link
