@@ -25,9 +25,10 @@ const Conclusion = () => {
             in Ontario. The fragments of history, culture, and civilization that
             have trickled into Ontario&apos;s society have a lasting influence
             on the province today. Moreover, a factor that amplifies the
-            greatness is the diversity in the province as well, displaying a
-            great example of a &quot;mixing bowl&quot; of cultures. In addition
-            to that, there are plenty of stunning natural features that can be
+            greatness is the diversity of people and communities of various
+            different backgrounds in the province as well, displaying a great
+            example of a &quot;mixing bowl&quot; of cultures. In addition to
+            that, there are plenty of stunning natural features that can be
             found in the province, and it displays the spectacular physical
             diversity of the land. Although it&apos;s uncommon to find a region
             filled with such a vast variety of places, here is where you can
