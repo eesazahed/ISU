@@ -17,6 +17,13 @@ const Example = () => {
             <br />
             <br />
             <p>
+              Visit{" "}
+              <Link target="_blank" href="https://ontario.ca">
+                Ontario.com &rarr;
+              </Link>
+            </p>
+            <br />
+            <p>
               <Link target="_blank" href="https://qurl.gq/91d8g">
                 Listen to some music! &rarr;
               </Link>
