@@ -24,12 +24,6 @@ const Example = () => {
             </p>
             <br />
             <p>
-              <Link target="_blank" href="https://qurl.gq/91d8g">
-                Listen to some music! &rarr;
-              </Link>
-            </p>
-            <br />
-            <p>
               <Link href="/conclusion">Go back &larr;</Link>
             </p>
           </>
