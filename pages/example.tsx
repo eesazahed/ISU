@@ -19,7 +19,7 @@ const Example = () => {
             <p>
               Visit{" "}
               <Link target="_blank" href="https://ontario.ca">
-                Ontario.com &rarr;
+                ontario.ca &rarr;
               </Link>
             </p>
             <br />
