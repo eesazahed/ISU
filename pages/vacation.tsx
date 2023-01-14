@@ -74,8 +74,8 @@ const Vacation = () => {
             open space to enjoy. The Rideau Canal opened in 1832, long before
             Canada became a country, and still operates today. After the War of
             1812, there was a suspicion that the United States of America was
-            planning to invade Upper Canada (present-day Ontario). The Rideau
-            Canal, along with several others, was then constructed to allow
+            planning to invade Upper Canada (present-day Ontario). Several
+            canals, including the Rideau Canal, were then constructed to allow
             boats to travel along the Rideau River, from Montreal, Quebec, to
             Kingston, Ontario.
             <br />
@@ -125,7 +125,7 @@ const Vacation = () => {
             Parliament Hill and participate in a guided tour at the House of
             Commons, a must-see destination for any tourist visiting the capitol
             of Canada. You can visit and explore the place where Canadian
-            Federal elections take place! As well as the building&apos;s
+            federal elections take place! As well as the building&apos;s
             dominant political significance, it&apos;s also a beautiful and
             historic building. Designed in the Victorian Gothic style, the House
             of Commons features remarkable architectural details and is a
@@ -192,9 +192,9 @@ const Vacation = () => {
             learn about the work of the senators. Until 1966, the building was
             actually the city&apos;s central railway station, called Ottawa
             Union Station. Therefore, the design of the building is quite
-            contrasting to the House of Commons Building. The railway station
-            operated from 1912 to 1966, until the tracks were removed and there
-            were plans for the building to be demolished. However, it remained
+            contrasting to the House of Commons. The railway station operated
+            from 1912 to 1966, until the tracks were removed and there were
+            plans for the building to be demolished. However, it remained
             intact, because one year later was Canada&apos;s centenary
             celebrations, which celebrated the 100th anniversary of the Canadian
             Confederation. The building became a visitors centre during the
