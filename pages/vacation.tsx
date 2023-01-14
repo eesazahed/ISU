@@ -413,20 +413,21 @@ const Vacation = () => {
             not counting any stops. If you leave early in the morning from
             Niagara, you should arrive in the town of Tobermory before noon.
             This is where you arrive at your pre-booked cabin. The town is less
-            than a 15-minute drive away from the park, so you can soon start
-            exploring when you&apos;re ready. There are countless activities for
-            park visitors, including hiking, swimming, canoeing, kayaking,
-            photography, camping, fishing, mountain-climbing, and sightseeing at
-            the Grotto, which is one of the main reasons for visiting the park.
-            However, scaling the grotto is a task for experienced hikers, as a
-            fall from the tall height can be fatal. There are also multiple
-            trails for inexperienced hikers, which are easier and more relaxing.
-            Activities for almost everyone can be found at this park. If
-            you&apos;re into photography, this is one of the best national parks
-            for taking photos of the animals, plants, and park life. You&apos;re
-            only here for one day, so you should spend as much time as you can
-            being active around the park. At night, return to your cabin and
-            take an excellent, long rest; you deserve it.
+            than a 15-minute drive away from the national park, so you can soon
+            start exploring when you&apos;re ready. There are countless
+            activities for park visitors, including hiking, swimming, canoeing,
+            kayaking, photography, camping, fishing, mountain-climbing, and
+            sightseeing at the Grotto, which is one of the main reasons for
+            visiting the park. However, scaling the grotto is a task for
+            experienced hikers, as a fall from the tall height can be fatal.
+            There are also multiple trails for inexperienced hikers, which are
+            easier and more relaxing. Activities for almost everyone can be
+            found at this park. If you&apos;re into photography, this is one of
+            the best national parks for taking photos of the animals, plants,
+            and park life. You&apos;re only here for one day, so you should
+            spend as much time as you can being active around the park. At
+            night, return to your cabin and take an excellent, long rest; you
+            deserve it.
             <br />
             <br />
             <Link target="_blank" href="https://parks.canada.ca/pn-np/on/bruce">
