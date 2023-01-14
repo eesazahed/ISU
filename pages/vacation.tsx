@@ -185,7 +185,7 @@ const Vacation = () => {
             For your final day in Ottawa, you&apos;ll be participating in a
             guided tour of the Senate of Canada Building, another major
             Parliament Building. The tour lasts 30 minutes and, similar to the
-            House of Commons Guided Tour, is completely free of charge. Located
+            House of Commons guided tour, is completely free of charge. Located
             a block away from Parliament Hill, the building possesses major
             political significance and noteworthy architectural design. This
             place is where you can examine the distinguished Senate Chamber and

@@ -27,12 +27,13 @@ const Home = () => {
           <p>
             Ontario is an incredible place to visit, and the vast group of
             locations within the province contain some of the most spectacular
-            landscapes on Earth. Here is a place where you can see mountains,
-            glaciers, rivers, lakes, beaches, forests, and more! Not an outdoors
-            person? Ontario provides amazing indoor urban locations as well.
-            With a variety of museums, malls, and historic sites, anyone can
-            have a good time there. Whether you like the city life at night, or
-            a mountain hike at sunrise, Ontario has something for everyone!
+            landscapes on our planet. Here is a place where you can see
+            mountains, glaciers, rivers, lakes, beaches, forests, and more! Not
+            an outdoors person? Ontario provides amazing indoor urban locations
+            as well. With a variety of museums, malls, and historic sites,
+            anyone can have a good time there. Whether you like the city life at
+            night, or a mountain hike at sunrise, Ontario has something for
+            everyone!
           </p>
         </Article>
 

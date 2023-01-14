@@ -101,7 +101,7 @@ const About = () => {
           reverse
         >
           <p>
-            A large majority of the province, almost ⅔ of the landmass lies
+            A large majority of the province (almost ⅔ of the landmass) lies
             under the Canadian Shield. The province is mainly covered in
             forests, containing both deciduous and coniferous trees. The soil in
             Ontario is extremely fertile in most locations, as there is lots of
@@ -128,7 +128,7 @@ const About = () => {
             <List
               items={[
                 "Lumber",
-                "Tree Sap",
+                "Tree sap",
                 "Uranium",
                 "Oil",
                 "Salt",
