@@ -189,7 +189,7 @@ const Vacation = () => {
             a block away from Parliament Hill, the building possesses major
             political significance and noteworthy architectural design. This
             place is where you can examine the distinguished Senate Chamber and
-            learn about the work of the Senators. Until 1966, the building was
+            learn about the work of the senators. Until 1966, the building was
             actually the city&apos;s central railway station, called Ottawa
             Union Station. Therefore, the design of the building is quite
             contrasting to the House of Commons Building. The railway station
@@ -409,7 +409,7 @@ const Vacation = () => {
             don&apos;t need to go to Fiji to see blue water and diverse
             wildlife. Moreover, it&apos;s time for a road trip! You&apos;ll be
             heading to Bruce Peninsula National Park, one of Ontario&apos;s five
-            National Parks. The journey is approximately 4.5 hours long by car,
+            national parks. The journey is approximately 4.5 hours long by car,
             not counting any stops. If you leave early in the morning from
             Niagara, you should arrive in the town of Tobermory before noon.
             This is where you arrive at your pre-booked cabin. The town is less
@@ -423,7 +423,7 @@ const Vacation = () => {
             There are also multiple trails for inexperienced hikers, which are
             easier and more relaxing. Activities for almost everyone can be
             found at this park. If you&apos;re into photography, this is one of
-            the best National Parks for taking photos of the animals, plants,
+            the best national parks for taking photos of the animals, plants,
             and park life. You&apos;re only here for one day, so you should
             spend as much time as you can being active around the park. At
             night, return to your cabin and take an excellent, long rest; you
