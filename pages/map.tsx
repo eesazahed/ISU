@@ -12,8 +12,7 @@ const Map = () => {
           title="Map of Ontario"
           images={[
             {
-              imageURL:
-                "https://www.geographicguide.com/america-maps/images/map-ontario.jpg",
+              imageURL: "map",
               imageAlt: "Map of Ontario",
             },
           ]}

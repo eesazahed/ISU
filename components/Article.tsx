@@ -86,7 +86,7 @@ const Article: NextPage<Props> = ({
           ) : (
             <img
               className={styles["img"]}
-              src={images[0].imageURL}
+              src={`/assets/images/${images[0].imageURL}.png`}
               alt={images[0].imageAlt}
               width="100%"
             />

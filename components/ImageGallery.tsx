@@ -20,7 +20,10 @@ const ImageGallery: NextPage<Props> = ({ images }) => {
           {images.map((image, index) => {
             return (
               <div className={styles["img-container"]} key={image.imageURL}>
-                <img src={image.imageURL} alt={image.imageAlt} />
+                <img
+                  src={`/assets/images/${image.imageURL}.png`}
+                  alt={image.imageAlt}
+                />
               </div>
             );
           })}

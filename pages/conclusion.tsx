@@ -13,8 +13,7 @@ const Conclusion = () => {
           title="In conclusion"
           images={[
             {
-              imageURL:
-                "https://th-thumbnailer.cdn-si-edu.com/TWen4Xkal9hShL108dBj6pJracA=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/57/fc/57fc452a-0cd4-436a-9ad9-9c67e765d650/istock-638342956.jpg",
+              imageURL: "waterfall",
               imageAlt: "Picture of Ontario",
             },
           ]}

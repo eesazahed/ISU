@@ -14,8 +14,7 @@ const Vacation = () => {
           title="A dream vacation to Ontario"
           images={[
             {
-              imageURL:
-                "https://saultstemarie.com/wp-content/uploads/2022/01/is52-1405604062-52872_1453913451.jpeg",
+              imageURL: "train",
               imageAlt: "Train in Ontario",
             },
           ]}
@@ -42,23 +41,19 @@ const Vacation = () => {
           lon={-75.7270779}
           images={[
             {
-              imageURL:
-                "https://www.digitalschool.ca/wp-content/uploads/2018/06/rideau-canal.jpg",
+              imageURL: "rideau1",
               imageAlt: "Rideau Canal",
             },
             {
-              imageURL:
-                "https://www.pcma.org/wp-content/uploads/2019/10/Skating-on-the-Rideau-Canal-Skateway-003-credit-Ottawa-Tourism-1.jpg",
+              imageURL: "rideau2",
               imageAlt: "Rideau Canal Historic Site",
             },
             {
-              imageURL:
-                "https://media-cdn.tripadvisor.com/media/photo-s/0e/cf/5b/85/rideau-canal-ottawa-tourism.jpg",
+              imageURL: "rideau3",
               imageAlt: "Rideau Canal",
             },
             {
-              imageURL:
-                "https://www.planetware.com/photos-large/CDN/canada-ottawa-rideau-canal.jpg",
+              imageURL: "rideau4",
               imageAlt: "Rideau Canal",
             },
           ]}
@@ -97,23 +92,19 @@ const Vacation = () => {
           lon={-75.7006458}
           images={[
             {
-              imageURL:
-                "https://foodsecurecanada.org/sites/foodsecurecanada.org/files/article_images/house_of_commons.jpg",
+              imageURL: "hoc1",
               imageAlt: "The House of Commons",
             },
             {
-              imageURL:
-                "https://ottawatourism.ca/sites/default/files/images/2020/02/Senate-of-Canada-2019-inside_DSC9754-1-credit-Ottawa-Tourism-Sofie-Sharom-in-print.jpg",
+              imageURL: "hoc2",
               imageAlt: "The House of Commons",
             },
             {
-              imageURL:
-                "https://www.ctvnews.ca/polopoly_fs/1.3976222.1529111924!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg",
+              imageURL: "hoc3",
               imageAlt: "The House of Commons",
             },
             {
-              imageURL:
-                "https://www.airtransat.com/experiencetransat/wp-content/uploads/2019/04/Parliament-Hill-ottawa-1024x770.jpg",
+              imageURL: "hoc4",
               imageAlt: "The House of Commons",
             },
           ]}
@@ -159,23 +150,19 @@ const Vacation = () => {
           lon={-75.9982367}
           images={[
             {
-              imageURL:
-                "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/7/14/senate-chamber-1-5987142-1657789715430.jpg",
+              imageURL: "soc1",
               imageAlt: "The Senate of Canada Building",
             },
             {
-              imageURL:
-                "https://www.tpsgc-pwgsc.gc.ca/citeparlementaire-parliamentaryprecinct/images/conference-img3.jpg",
+              imageURL: "soc2",
               imageAlt: "The Senate of Canada Building",
             },
             {
-              imageURL:
-                "https://canadiangeographic.ca/wp-content/uploads/2022/02/screen_shot_2018-12-14_at_5.15.35_pm-1024x678.png",
+              imageURL: "soc3",
               imageAlt: "The Senate of Canada Building",
             },
             {
-              imageURL:
-                "https://sencanada.ca/media/najof2x4/com_pho_updated-scb-chamber-flags_2019-03-13_dsc_4289.jpg",
+              imageURL: "soc4",
               imageAlt: "The Senate of Canada Building",
             },
           ]}
@@ -218,8 +205,7 @@ const Vacation = () => {
           title="Did you know?"
           images={[
             {
-              imageURL:
-                "https://images.dailyhive.com/20210210065329/canada-ottawa-cold.jpg",
+              imageURL: "ottawa",
               imageAlt: "Ottawa in the snow",
             },
           ]}
@@ -254,23 +240,19 @@ const Vacation = () => {
           lon={-79.3458624}
           images={[
             {
-              imageURL:
-                "https://s3.amazonaws.com/lws_lift/compten/images/blog/1502303280_danforth.png",
+              imageURL: "danforth1",
               imageAlt: "Taste of the Danforth",
             },
             {
-              imageURL:
-                "https://i.cbc.ca/1.5243018.1565483577!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/26th-annual-taste-of-the-danforth.JPG",
+              imageURL: "danforth2",
               imageAlt: "Taste of the Danforth",
             },
             {
-              imageURL:
-                "https://images.squarespace-cdn.com/content/567d5140841abaa3c9136278/1488891735700-DDWZNLMM32ZG76C6QLHE/?content-type=image%2Fjpeg",
+              imageURL: "danforth3",
               imageAlt: "Taste of the Danforth",
             },
             {
-              imageURL:
-                "https://img1.10bestmedia.com/Images/Photos/264761/p-Beef-kabobs--1-_55_660x440.jpg",
+              imageURL: "danforth4",
               imageAlt: "Taste of the Danforth",
             },
           ]}
@@ -318,23 +300,19 @@ const Vacation = () => {
           lon={-79.2281181}
           images={[
             {
-              imageURL:
-                "https://blog-assets.thedyrt.com/uploads/2019/07/shutterstock_796161172-1.jpg",
+              imageURL: "falls1",
               imageAlt: "Niagara Falls",
             },
             {
-              imageURL:
-                "https://cdn.britannica.com/30/94430-050-D0FC51CD/Niagara-Falls.jpg",
+              imageURL: "falls2",
               imageAlt: "Niagara Falls",
             },
             {
-              imageURL:
-                "https://www.niagarafallslive.com/wp-content/uploads/2013/09/opt-fallsilluminated900-1.jpg",
+              imageURL: "falls3",
               imageAlt: "Niagara Falls",
             },
             {
-              imageURL:
-                "https://destination-ontario-prod.s3.ca-central-1.amazonaws.com/files/s3fs-public/2021-07/Niagara-Falls-Illuminated_0.jpg?VersionId=slSzZBdnIS8xmZVNEZzPaWH0DSyrSIdl",
+              imageURL: "falls4",
               imageAlt: "Niagara Falls",
             },
           ]}
@@ -379,23 +357,19 @@ const Vacation = () => {
           lon={-81.3420881}
           images={[
             {
-              imageURL:
-                "https://images.squarespace-cdn.com/content/v1/5eb81cda694aa05df3bd0b15/1589506287768-B73R5INKJO9L41VRJNF5/Indian+Head+Cove+Bruce+Peninsula+national+park?format=750w",
+              imageURL: "bruce1",
               imageAlt: "Bruce Peninsula National Park",
             },
             {
-              imageURL:
-                "https://www.voyageurtripper.com/wp-content/uploads/2020/10/Bruce-Peninsula-Camping-Grotto-Cave-1024x768.jpg",
+              imageURL: "bruce2",
               imageAlt: "Bruce Peninsula National Park",
             },
             {
-              imageURL:
-                "https://i0.wp.com/kayak-ontario.com/wp-content/uploads/2016/10/fotor_147727666368770.jpg?fit=2048%2C1536&ssl=1",
+              imageURL: "bruce3",
               imageAlt: "Bruce Peninsula National Park",
             },
             {
-              imageURL:
-                "https://cdn-adventures-live.azureedge.net/adventurescache/4/2/e/6/0/0/42e6001deb798ba953e2434267ac6d28a73a3ca0.webp",
+              imageURL: "bruce4",
               imageAlt: "Bruce Peninsula National Park",
             },
           ]}
@@ -444,23 +418,19 @@ const Vacation = () => {
           lon={-81.6346162}
           images={[
             {
-              imageURL:
-                "https://i0.wp.com/unusualplaces.org/wp-content/uploads/2022/08/Depositphotos_283571770_S.jpg",
+              imageURL: "flowerpot1",
               imageAlt: "Flowerpot Island",
             },
             {
-              imageURL:
-                "https://www.futureautolabourforce.ca/wp-content/uploads/2021/07/limestone-cliff-face-along-the-bruce-trail-near-lions-head-ontario-picture-id1184948740-768x548.jpg",
+              imageURL: "flowerpot2",
               imageAlt: "Flowerpot Island",
             },
             {
-              imageURL:
-                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/96/96/d7/flowerpot-island-lighthouse.jpg?w=1200&h=1200&s=1",
+              imageURL: "flowerpot3",
               imageAlt: "Flowerpot Island",
             },
             {
-              imageURL:
-                "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/4-flowerpot-island-canada-joana-kruse.jpg",
+              imageURL: "flowerpot4",
               imageAlt: "Flowerpot Island",
             },
           ]}

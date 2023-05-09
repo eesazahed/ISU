@@ -8,8 +8,7 @@ const Nav: NextPage = () => {
       title="Want to learn more?"
       images={[
         {
-          imageURL:
-            "https://www.ontarioaway.com/wp-content/uploads/2020/09/things-to-do-in-ontario-canada-scenic-drive.jpg",
+          imageURL: "highway",
           imageAlt: "Highway in Ontario",
         },
       ]}

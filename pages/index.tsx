@@ -18,8 +18,7 @@ const Home = () => {
           title="Why visit Ontario?"
           images={[
             {
-              imageURL:
-                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f5/a2/ontario.jpg?w=700&h=500&s=1",
+              imageURL: "mountains",
               imageAlt: "Picture of Ontario",
             },
           ]}

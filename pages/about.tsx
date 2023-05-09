@@ -14,8 +14,7 @@ const About = () => {
           title="Quick facts on Ontario"
           images={[
             {
-              imageURL:
-                "https://saultstemarie.com/wp-content/uploads/2022/01/is52-1405604062-52872_1453913451.jpeg",
+              imageURL: "train",
               imageAlt: "Train in Ontario",
             },
           ]}
@@ -37,8 +36,7 @@ const About = () => {
           title="Basic facts"
           images={[
             {
-              imageURL:
-                "https://cdn.britannica.com/25/3225-004-EB60D413/Flag-Ontario.jpg",
+              imageURL: "flag",
               imageAlt: "The flag of Ontario",
             },
           ]}
@@ -64,8 +62,7 @@ const About = () => {
           title="Ecosystems"
           images={[
             {
-              imageURL:
-                "https://foodfromthought.ca/wp-content/uploads/2020/11/Ecosystems_11-Small.png",
+              imageURL: "forest",
               imageAlt: "Forest in Ontario",
             },
           ]}
@@ -92,8 +89,7 @@ const About = () => {
           title="Unique physical characteristics"
           images={[
             {
-              imageURL:
-                "https://d3d0lqu00lnqvz.cloudfront.net/media/new_article_images/GeographyofOntario/CanadianShield.jpg",
+              imageURL: "rocks",
               imageAlt: "Rocks in Ontario",
             },
           ]}
@@ -116,8 +112,7 @@ const About = () => {
           title="Natural resources"
           images={[
             {
-              imageURL:
-                "https://saultonline.com/wp-content/uploads/2020/02/ecology-felling-forest.jpg",
+              imageURL: "lumber",
               imageAlt: "A lumber mill in Ontario",
             },
           ]}
@@ -146,8 +141,7 @@ const About = () => {
           title="Major industrial sectors"
           images={[
             {
-              imageURL:
-                "https://d3tibl45x65nxk.cloudfront.net/tg_medialibrary/Images/landing-page/Optimized/AdvancedManufacturing_mobile_optimized.jpg",
+              imageURL: "metalworker",
               imageAlt: "A metalworker in Ontario",
             },
           ]}
@@ -177,8 +171,7 @@ const About = () => {
           title="Invasive species"
           images={[
             {
-              imageURL:
-                "https://www.ontarioparks.com/parksblog/wp-content/uploads/2015/05/Asian-Carp-900x705.jpg",
+              imageURL: "carp",
               imageAlt: "Asian Carp",
             },
           ]}
@@ -207,8 +200,7 @@ const About = () => {
           title="Energy sources"
           images={[
             {
-              imageURL:
-                "https://www.on-sitemag.com/wp-content/uploads/2018/08/pumped_hydro_station_adam_beck.jpg-e1534336945116.jpg",
+              imageURL: "dam",
               imageAlt: "A dam in Ontario",
             },
           ]}
